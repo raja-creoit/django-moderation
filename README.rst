@@ -1,5 +1,6 @@
 Introduction
 ============
+[![codecov](https://codecov.io/gh/raja-creoit/django-moderation/branch/master/graph/badge.svg)](https://codecov.io/gh/raja-creoit/django-moderation)
 .. image:: https://travis-ci.org/dominno/django-moderation.png
    :target: https://travis-ci.org/dominno/django-moderation
    
