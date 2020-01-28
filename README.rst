@@ -70,3 +70,5 @@ Special thanks to all persons that contributed to this project.
 
 Thank you for all ideas, bug fixes, patches.
 
+
+[![codecov](https://codecov.io/gh/raja-creoit/django-moderation/branch/master/graph/badge.svg)](https://codecov.io/gh/raja-creoit/django-moderation)
